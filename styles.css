@@ -1,0 +1,49 @@
+  
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+   text-align: center;
+  display: inline-block;
+
+}
+
+.btn{
+    background-color: #ffa299;
+    color: red;
+    text-align: center;
+    margin: 5% 45%;
+}
+
+
+body {
+  background-color: #ad6989;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 4.5rem;
+  color: #ffa299;
+}
+
+p {
+  font-size: 2rem;
+  color: #ffa299;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+   color: #ffa299;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
